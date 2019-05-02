@@ -1,0 +1,7 @@
+{
+	"fileName": "MyReader_v3.18_signed.apk",
+	"changelog": "01、修复某些网页保存出现乱码。\r\n02、修复网页另存为偶尔失败。\r\n03、支持批量离线文章设置标签。\r\n04、修复某些网页的图片保存失败\r\n07、增加图片自适应功能，可以智能调节图片展示大小。",
+	"version": 1556816975159,
+	"fileSize": 0,
+	"forceUpdate": false
+}
